@@ -1,0 +1,10 @@
+html,
+body {
+    background-color: #f7fff7;
+    color: #292f36;
+    min-height: 100vh;
+}
+
+h1 {
+    padding-bottom: 2rem;
+}
