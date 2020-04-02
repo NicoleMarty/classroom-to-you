@@ -18,7 +18,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 15% auto;
-    font-family: "Passion One", cursive;
+    font-family: "Amatic SC", cursive;
     margin-bottom: 0px;
     text-align: center;
 }
@@ -48,6 +48,7 @@ a:hover {
     background: none;
     border: none;
     position: relative;
+    font-family: "Oswald", sans-serif;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 3px;
