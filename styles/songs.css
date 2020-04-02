@@ -27,20 +27,21 @@ span,
 .jumbotron {
     background-color: #282c34;
     color: #f7fff7;
-    margin-top: 0.25%;
+    margin-top: 0.05%;
 }
 
 .display-1 {
     font-family: "Amatic SC", cursive;
     font-size: 72pt;
     padding-bottom: 0;
+    padding-top: 10px;
 }
 
 p,
 .lead {
     font-family: "Bellota", cursive;
     font-size: 24pt;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 form {
@@ -49,6 +50,7 @@ form {
 h1 {
     font-family: "Oswald", sans-serif;
     padding-bottom: 1rem;
+    padding-top: 1rem;
 }
 
 h4 {
@@ -60,5 +62,5 @@ h6 {
     margin-bottom: 5rem;
     color: white;
     background-color: #444b59;
-    padding: 10px 10px;
+    padding: 10px 10px 10px 10px;
 }
