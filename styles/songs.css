@@ -5,10 +5,26 @@ body {
     min-height: 100vh;
 }
 
-h1 {
-    padding-bottom: 2rem;
-}
-
 h6 {
     padding-bottom: 5rem;
+}
+
+.jumbotron {
+    background-color: #282c34;
+    color: #f7fff7;
+}
+
+.display-1 {
+    font-family: "Passion One", cursive;
+}
+
+p,
+.lead,
+.display-4 {
+    font-family: "Bellota", cursive;
+    padding-bottom: 1rem;
+}
+
+h4 {
+    font-family: "Bellota", cursive;
 }
