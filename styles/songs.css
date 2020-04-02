@@ -10,7 +10,8 @@ nav,
 }
 
 .nav-link {
-    font-family: "Bellota", cursive;
+    font-family: "Amatic SC", cursive;
+    font-size: 24pt;
     color: white;
 }
 
@@ -31,20 +32,33 @@ span,
 
 .display-1 {
     font-family: "Amatic SC", cursive;
+    font-size: 72pt;
+    padding-bottom: 0;
 }
 
 p,
-.lead,
-h1 {
+.lead {
     font-family: "Bellota", cursive;
+    font-size: 24pt;
+    padding-bottom: 10px;
+}
+
+form {
+    font-family: "Oswald", sans-serif;
+}
+h1 {
+    font-family: "Oswald", sans-serif;
     padding-bottom: 1rem;
+}
+
+h4 {
+    font-family: "Bellota", cursive;
 }
 
 h6 {
     font-family: "Oswald", sans-serif;
-    padding-bottom: 5rem;
-}
-
-h4 {
-    font-family: "Oswald", sans-serif;
+    margin-bottom: 5rem;
+    color: white;
+    background-color: #444b59;
+    padding: 10px 10px;
 }
