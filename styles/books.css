@@ -1,0 +1,64 @@
+html,
+body {
+    color: #292f36;
+    min-height: 100vh;
+}
+
+nav,
+.navbar {
+    background-color: #444b59;
+}
+
+.nav-link {
+    font-family: "Amatic SC", cursive;
+    font-size: 24pt;
+    color: white;
+}
+
+.nav-item {
+    padding-right: 15px;
+}
+
+span,
+.navbar-toggler-icon {
+    color: white;
+}
+
+.jumbotron {
+    background-color: #282c34;
+    color: #f7fff7;
+    margin-top: 0.05%;
+}
+
+.display-1 {
+    font-family: "Amatic SC", cursive;
+    font-size: 72pt;
+    padding-bottom: 0;
+    padding-top: 10px;
+}
+
+p,
+.lead {
+    font-family: "Bellota", cursive;
+    font-size: 22pt;
+    padding-bottom: 5px;
+}
+
+#sub-category {
+    font-family: "Amatic SC", cursive;
+    font-size: 28pt;
+}
+
+#song-library {
+    font-family: "Oswald", sans-serif;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+}
+
+h5 {
+    font-family: "Bellota", cursive;
+    color: white;
+    background-color: #444b59;
+    padding: 10px 10px;
+    margin-bottom: 4rem;
+}
