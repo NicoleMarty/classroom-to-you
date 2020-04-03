@@ -44,7 +44,12 @@ p,
     padding-bottom: 5px;
 }
 
-h1 {
+#sub-category {
+    font-family: "Amatic SC", cursive;
+    font-size: 28pt;
+}
+
+#song-library {
     font-family: "Oswald", sans-serif;
     padding-bottom: 2rem;
     padding-top: 1rem;
@@ -56,4 +61,8 @@ h5 {
     background-color: #444b59;
     padding: 10px 10px;
     margin-bottom: 4rem;
+}
+
+#survey-title {
+    font-family: "Amatic SC", cursive;
 }
