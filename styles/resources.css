@@ -56,9 +56,17 @@ p,
 }
 
 h5 {
-    font-family: "Bellota", cursive;
+    font-family: "Oswald", sans-serif;
     color: white;
     background-color: #444b59;
-    padding: 10px 10px;
-    margin-bottom: 4rem;
+    padding: 20px 20px;
+    margin: 0;
+}
+
+h6 {
+    background-color: #282c34;
+    color: white;
+    font-family: "Bellota", cursive;
+    padding: 20px 20px;
+    min-height: 100px;
 }
