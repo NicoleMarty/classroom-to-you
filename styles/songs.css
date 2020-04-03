@@ -40,27 +40,20 @@ span,
 p,
 .lead {
     font-family: "Bellota", cursive;
-    font-size: 24pt;
+    font-size: 22pt;
     padding-bottom: 5px;
 }
 
-form {
-    font-family: "Oswald", sans-serif;
-}
 h1 {
     font-family: "Oswald", sans-serif;
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
     padding-top: 1rem;
 }
 
-h4 {
+h5 {
     font-family: "Bellota", cursive;
-}
-
-h6 {
-    font-family: "Oswald", sans-serif;
-    margin-bottom: 5rem;
     color: white;
     background-color: #444b59;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 10px;
+    margin-bottom: 4rem;
 }
