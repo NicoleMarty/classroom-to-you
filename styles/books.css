@@ -49,16 +49,17 @@ p,
     font-size: 28pt;
 }
 
-#song-library {
+#story-library {
     font-family: "Oswald", sans-serif;
     padding-bottom: 2rem;
     padding-top: 1rem;
 }
 
 h5 {
-    font-family: "Josefin Slab", serif;
+    font-family: "Oswald", sans-serif;
     color: white;
     background-color: #444b59;
     padding: 20px 20px;
+    min-height: 100px;
     margin-bottom: 4rem;
 }
